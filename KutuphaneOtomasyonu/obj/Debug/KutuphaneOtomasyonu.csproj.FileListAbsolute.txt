@@ -1,0 +1,16 @@
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Anasayfa.resources
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.GirisPaneli.resources
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapKayit.resources
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.OkuyucuKayit.resources
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.EmanetKayit.resources
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.exe
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapListesi.resources
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.EmanetListesi.resources
+C:\Users\KRAL\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.OkuyucuListesi.resources
